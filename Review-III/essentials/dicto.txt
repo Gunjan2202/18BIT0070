@@ -1,0 +1,458 @@
+turn:402:
+on:254:
+light:209:
+turn on:407:
+on light:257:
+switch:390:
+switch on:393:
+bring:36:
+bring light:40:
+light on:213:
+up:422:
+room:314:
+light up:217:
+up room:429:
+wake:432:
+wake up:433:
+up light:428:
+get:140:
+running:316:
+get light:144:
+light running:215:
+turn light:405:
+switch light:391:
+bulb:43:
+on bulb:255:
+up bulb:423:
+turn bulb:403:
+bulb on:45:
+in:169:
+bring in:39:
+in light:172:
+bring bulb:37:
+on up:258:
+light in:211:
+brighten:32:
+brighten up:35:
+put:299:
+put on:302:
+make:227:
+it:178:
+bright:30:
+make it:228:
+it bright:179:
+full:139:
+brighten light:33:
+light full:210:
+want:434:
+want wake:441:
+need:238:
+need wake:242:
+awake:17:
+enough:115:
+sleep:344:
+forday:133:
+enough sleep:116:
+sleep forday:345:
+time:400:
+it time:182:
+time up:401:
+put up:303:
+plug:291:
+plug on:293:
+illuminate:165:
+illuminate room:166:
+start:367:
+start light:369:
+off:249:
+turn off:406:
+off light:253:
+switch off:392:
+down:102:
+bring down:38:
+down light:105:
+darken:83:
+darken up:84:
+want sleep:438:
+switched:394:
+light switched:216:
+switched off:395:
+light off:212:
+off bulb:250:
+dim:87:
+dim room:89:
+bulb off:44:
+dark:81:
+bring up:42:
+up dark:425:
+dark darken:82:
+black:19:
+out:276:
+black out:20:
+light out:214:
+put off:301:
+dim light:88:
+zero:457:
+light zero:218:
+feeling:124:
+sleepy:347:
+feeling sleepy:127:
+now:246:
+need sleep:240:
+sleep now:346:
+some:350:
+rest:308:
+need some:241:
+some rest:357:
+shut:337:
+shut off:340:
+put down:300:
+goodnight:153:
+stop:371:
+stop light:373:
+it dark:181:
+unplug:417:
+unplug light:419:
+turn out:408:
+out light:277:
+fan:120:
+on fan:256:
+spin:365:
+spin fan:366:
+start fan:368:
+wind:451:
+want some:439:
+some wind:360:
+air:2:
+get in:143:
+in some:174:
+some air:351:
+im:167:
+sweaty:389:
+im feeling:168:
+feeling sweaty:128:
+hot:162:
+give:146:
+me:230:
+breeze:29:
+feeling hot:126:
+hot give:163:
+give me:147:
+me some:232:
+some breeze:352:
+please:284:
+please switch:288:
+speed:363:
+speed up:364:
+up fan:427:
+get fan:142:
+blow:27:
+blow some:28:
+fan on:122:
+turn fan:404:
+air in:3:
+supply:385:
+of:247:
+electricity:113:
+start supply:370:
+supply of:386:
+of electricity:248:
+electricity fan:114:
+bring on:41:
+cool:64:
+some cool:353:
+cool air:65:
+activate:0:
+activate fan:1:
+cool down:66:
+down room:106:
+off fan:252:
+stop fan:372:
+fan off:121:
+cold:58:
+feeling cold:125:
+fan out:123:
+air out:4:
+supplying:387:
+stop supplying:374:
+supplying electricity:388:
+shut down:339:
+down fan:104:
+unplug fan:418:
+plug off:292:
+here:161:
+cold here:59:
+some hot:355:
+deactivate:85:
+deactivate fan:86:
+heat:159:
+heat room:160:
+slow:348:
+slow down:349:
+let:198:
+warm:442:
+let room:203:
+room warm:315:
+it cold:180:
+cold make:60:
+make me:229:
+me warm:234:
+open:261:
+door:94:
+open door:264:
+push:297:
+back:18:
+push door:298:
+door back:95:
+unlock:414:
+unlock door:416:
+letm:207:
+inside:176:
+letm inside:208:
+main:225:
+open main:268:
+main door:226:
+person:282:
+come:61:
+let person:202:
+person come:283:
+come inside:63:
+see:329:
+who:443:
+outside:278:
+see who:333:
+who outside:444:
+grab:154:
+grab door:155:
+go:148:
+want go:436:
+go out:149:
+unlatch:412:
+please unlatch:289:
+unlatch door:413:
+my:235:
+friend:136:
+at:13:
+my friend:237:
+friend at:137:
+at door:14:
+just:186:
+just open:187:
+open up:271:
+up door:426:
+all:5:
+entrie:117:
+unlock all:415:
+all entrie:7:
+could:67:
+answer:8:
+that:398:
+could answer:68:
+answer that:10:
+that door:399:
+someone:361:
+known:190:
+someone known:362:
+known outside:191:
+outside door:279:
+everyone:118:
+let everyone:201:
+everyone come:119:
+please unlock:290:
+open my:269:
+my door:236:
+door open:100:
+answer door:9:
+open entrie:265:
+opening:272:
+opening door:273:
+attend:15:
+attend door:16:
+get that:145:
+keep:188:
+keep door:189:
+open that:270:
+house:164:
+open house:267:
+could attend:69:
+goddamn:151:
+open goddamn:266:
+goddamn door:152:
+close:49:
+close door:53:
+lock:219:
+lock house:223:
+seal:320:
+seal that:324:
+lock door:222:
+front:138:
+door front:98:
+block:22:
+block all:23:
+locked:224:
+door locked:99:
+will:447:
+latch:192:
+our:274:
+will latch:448:
+latch our:195:
+our door:275:
+secure:326:
+grid:156:
+secure grid:327:
+shut door:338:
+lock all:220:
+do:90:
+not:243:
+anyone:11:
+do not:91:
+not let:244:
+let anyone:199:
+anyone in:12:
+dog:92:
+let dog:200:
+dog go:93:
+go outside:150:
+latch door:193:
+secure lock:328:
+lock close:221:
+close all:50:
+all door:6:
+guard:157:
+guard door:158:
+leave:196:
+unattended:409:
+leave door:197:
+door unattended:101:
+door close:96:
+safeguard:317:
+will safeguard:449:
+safeguard my:318:
+can:46:
+can close:47:
+closed:55:
+door closed:97:
+closing:56:
+closing all:57:
+seal all:321:
+can shut:48:
+would:455:
+slam:341:
+would slam:456:
+slam that:343:
+slam door:342:
+will seal:450:
+seal house:323:
+latch goddamn:194:
+close house:54:
+pull:294:
+curtain:72:
+pull off:296:
+off curtain:251:
+open curtain:263:
+remove:306:
+remove curtain:307:
+curtain out:79:
+fold:131:
+fold curtain:132:
+roll:311:
+roll curtain:312:
+please open:286:
+blind:21:
+open blind:262:
+sunlight:377:
+in sunlight:175:
+let some:204:
+some sunlight:358:
+sunlight in:380:
+curtain off:76:
+show:334:
+view:430:
+show some:336:
+some view:359:
+wind up:453:
+up curtain:424:
+curtain open:78:
+some outside:356:
+outside light:280:
+sunrise:383:
+want see:437:
+see sunrise:331:
+sunset:384:
+see sunset:332:
+drop:111:
+drop curtain:112:
+unfurl:410:
+unfurl curtain:411:
+unroll:420:
+unroll curtain:421:
+wide:445:
+wide open:446:
+sun:375:
+ray:304:
+let sun:205:
+sun ray:376:
+ray come:305:
+let sunlight:206:
+sunlight come:379:
+come in:62:
+in room:173:
+sunlight brighten:378:
+brighten room:34:
+take:396:
+fresh:134:
+want take:440:
+take some:397:
+some fresh:354:
+fresh air:135:
+show me:335:
+me view:233:
+view outside:431:
+me outside:231:
+outside view:281:
+close curtain:52:
+draw:109:
+draw curtain:110:
+curtain down:74:
+curtain in:75:
+please close:285:
+close blind:51:
+block sunlight:26:
+curtain on:77:
+get curtain:141:
+block sun:25:
+window:454:
+seal window:325:
+curtain close:73:
+please seal:287:
+seal curtain:322:
+ito:183:
+sunny:381:
+ito sunny:185:
+sunny outside:382:
+ito bright:184:
+bright outside:31:
+cover:70:
+cover window:71:
+want curtain:435:
+not want:245:
+see outside:330:
+screen:319:
+pull in:295:
+in curtain:171:
+curtain screen:80:
+roll down:313:
+down curtain:103:
+only:259:
+need only:239:
+only inside:260:
+inside light:177:
+fluff:129:
+fluff curtain:130:
+wind down:452:
+in blind:170:
+restrict:309:
+restrict outside:310:
+block outside:24:
+drape:107:
+drape window:108:
